@@ -102,4 +102,4 @@ Prediction:
 
 ## 👩‍💻 Author
 
-Bhumika
+Bhumika G S
